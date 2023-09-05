@@ -6,10 +6,10 @@ On the tech side, I'm a full-stack developer with 10+ years of experience delive
 
 Check out my homepage to get in touch:
 
-- [https://timmyomahony.com](https://timmyomahony.com)
+- 🌍 [https://timmyomahony.com](https://timmyomahony.com)
 
 or find me around the web:
 
-- 👨🏻‍✈️ [LinkedIn](https://www.linkedin.com/in/timmy-omahony/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/timmy-omahony/)
 - 🦜 [Twitter](https://twitter.com/timmyomahony/)
 - 🐘 [Mastodon](https://mastodon.social/@timmyomahony/)
