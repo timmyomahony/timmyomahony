@@ -2,7 +2,7 @@
 
 My name is Timmy and I'm an independent Irish software developer helping tech-constrained teams pitch & deliver more ambitious apps and experiences.
 
-On the tech side, I'm a full-stack developer with 10+ years of experience delivering fully-formed web apps, from dynamic and interactive frontend projects to data-centric backends and APIs.
+I'm a full-stack developer with 10+ years of experience delivering fully-formed web apps, from dynamic and interactive frontend projects to data-centric backends and APIs.
 
 Check out my homepage:
 
