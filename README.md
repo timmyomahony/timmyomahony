@@ -13,7 +13,3 @@ or find me around the web:
 - 💼 [LinkedIn](https://www.linkedin.com/in/timmy-omahony/)
 - 🦜 [Twitter](https://twitter.com/timmyomahony/)
 - 🐘 [Mastodon](https://mastodon.social/@timmyomahony/)
-
-Want to chat?
-
-- 💬 [Schedule a chat](https://savvycal.com/timmyomahony/47aca6d4)
