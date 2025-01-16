@@ -7,4 +7,4 @@ I'm a full-stack developer with 10+ years of experience delivering fully-formed 
 - 🌍 [https://timmyomahony.com](https://timmyomahony.com)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/timmy-omahony/)
 - 🦋 [Follow on Bluesky](https://bsky.app/profile/timmy-omahony.bsky.social)
-- ☎️ [Schedule a call](https://cal.com/timmyomahony/schedule-call)
+- ☎️ [Schedule a call](https://savvycal.com/timmyomahony/schedule-a-call)
